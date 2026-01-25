@@ -31,7 +31,7 @@ const char *choice = choice_from_array("Select an option:", options, 3);
 printf("You selected: %s\n", choice);
 ```
 
-### Exemple
+### Example
 ```c
 #include <stdio.h>
 #include "choiceMaker.h"
