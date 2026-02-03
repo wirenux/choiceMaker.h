@@ -9,11 +9,11 @@ Simply put `choiceMaker.h` in your `includes` folder.
 
 You can download with that : 
 ```sh
-curl -O https://raw.githubusercontent.com/squach90/choiceMaker.h/main/choiceMaker.h
+curl -O https://github.com/wirenux/choiceMaker.h/blob/main/choiceMaker.h
 ``` 
 or
 ```sh
-wget https://raw.githubusercontent.com/squach90/choiceMaker.h/main/choiceMaker.h
+wget https://github.com/wirenux/choiceMaker.h/blob/main/choiceMaker.h
 ```
 ### How to use ?
 
